@@ -1,0 +1,5 @@
+presets:
+  default:
+    throwMultiplier: 1.0
+    fallMultiplier: 1.0
+    offset: 0.0

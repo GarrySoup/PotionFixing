@@ -1,0 +1,6 @@
+name: PotionFixing
+version: '${project.version}'
+main: dev.cashier.potionfixing.PotionFixing
+commands:
+  potion:
+
